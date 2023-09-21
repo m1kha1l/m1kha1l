@@ -5,4 +5,4 @@
 ### Привет 👋, меня зовут Михаил
 #### Я разработик веб приложений и начинающий аудитор смарт-контрактов
 
-Skills: C#/ ASP.NET / JS / HTML / CSS / MSSQL / MySQL / Python / Solidity / Hardhat
+Мои навыки: C#/ ASP.NET / JS / HTML / CSS / MSSQL / MySQL / Python / Solidity / Hardhat
